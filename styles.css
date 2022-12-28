@@ -1,0 +1,36 @@
+button{
+    background-color: orange;
+    font-size: 18px;
+}
+
+div{
+    background-color: red;
+    color:white;
+    font-size: 32;
+    text-align: center;
+    font-weight: bold;
+}
+
+li{
+    background-color: rgb(40, 0, 4);
+    color:whitesmoke;
+    font-size: 16px;
+    font-family:Verdana, "Geneva", Tahoma, sans-serif;
+}
+
+h1{
+    background-color: rgb(240, 255, 206);
+    font-family:Verdana, "Geneva", Tahoma, sans-serif;
+    font-weight:bold;
+    color:black;
+}
+
+p{
+    background-color: green;
+    color: white;
+    font-size: 18px;
+}
+
+*{
+    background-color: rgc(204, 201, 161);
+}
